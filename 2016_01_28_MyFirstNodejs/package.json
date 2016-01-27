@@ -1,0 +1,10 @@
+{
+  "name": "2016_01_28_MyFirstNodejs",
+  "version": "0.0.0",
+  "description": "2016_01_28_MyFirstNodejs",
+  "main": "server.js",
+  "author": {
+    "name": "Do Anh Thong",
+    "email": ""
+  }
+}
